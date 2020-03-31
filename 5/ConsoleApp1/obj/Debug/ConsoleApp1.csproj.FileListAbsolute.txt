@@ -1,0 +1,13 @@
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Unix\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Unix\Desktop\3 сем\ООП\5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\obj\Debug\lab14.csprojAssemblyReference.cache
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Unix\Desktop\3 сем\ООП\lab14\lab14\obj\Debug\lab14.csproj.CopyComplete

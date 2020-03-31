@@ -1,0 +1,14 @@
+ConsoleApp7.User Method get_Name
+ConsoleApp7.User Method set_Name
+ConsoleApp7.User Method get_Age
+ConsoleApp7.User Method set_Age
+ConsoleApp7.User Method Display
+ConsoleApp7.User Method Payment
+System.Object Method ToString
+System.Object Method Equals
+System.Object Method GetHashCode
+System.Object Method GetType
+ConsoleApp7.User Constructor .ctor
+ConsoleApp7.User Constructor .ctor
+ConsoleApp7.User Property Name
+ConsoleApp7.User Property Age

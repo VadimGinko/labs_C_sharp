@@ -1,0 +1,6 @@
+C:\Users\Unix\Desktop\ООП\15\LAB_15\bin\Debug\LAB_15.exe.config
+C:\Users\Unix\Desktop\ООП\15\LAB_15\bin\Debug\LAB_15.exe
+C:\Users\Unix\Desktop\ООП\15\LAB_15\bin\Debug\LAB_15.pdb
+C:\Users\Unix\Desktop\ООП\15\LAB_15\obj\Debug\LAB_15.csprojAssemblyReference.cache
+C:\Users\Unix\Desktop\ООП\15\LAB_15\obj\Debug\LAB_15.exe
+C:\Users\Unix\Desktop\ООП\15\LAB_15\obj\Debug\LAB_15.pdb
